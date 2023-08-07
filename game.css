@@ -1,0 +1,41 @@
+.enemy{
+    color:rgb(160, 55, 34);
+    background-color: black;
+    font-size: 22px;
+    border: 1px solid rgb(249, 5, 5);
+    text-align: center;
+}
+#player{
+    color:rgb(164, 149, 16);
+    background-color: rgb(65, 16, 74);
+    font-size: 24px;
+    border: 1px solid rgb(243, 251, 2);
+    text-align: center;
+}
+.playerMissiles{
+    text-align:center;
+    border: solid 1px green;
+    font-size: 24px;
+    color: green;
+    background-color:black;
+}
+.number{
+    color:green;
+}
+#messages{
+    font-size: 20px;
+    border: 1px inset black;
+    color: black;
+    background-color: rgb(109, 202, 202);
+    border-radius: 12px;
+}
+
+.lside{
+    color:darksalmon;
+    font-family: arial;
+    text-shadow:2px 2px 3px grey;
+}
+.rside{
+    color:yellow;
+    font-size: 20px;
+}
